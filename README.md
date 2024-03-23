@@ -34,6 +34,3 @@ Streamlit was our choice for creating the application's UI. As it requires no sp
 ![image](https://github.com/felipebasurto/EmoTune/assets/62935664/4b0878af-7f70-4db4-93c1-d5a1276d734b)
 ![image](https://github.com/felipebasurto/EmoTune/assets/62935664/d4c595a4-2777-48bc-9081-0f8e1de6f7ce)
 
-## User Manual
-(TO-DO)
-
